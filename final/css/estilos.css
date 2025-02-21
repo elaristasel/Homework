@@ -1,0 +1,92 @@
+body{
+    background-color: brown;
+}
+.caja1{
+    text-align: center;
+    background-color: aquamarine;
+    width: 380px;
+    height: 190px;
+    margin: 5px;
+    padding: 5px;
+    border-style: dashed;
+    border-color: blue ;
+
+}
+.c1{
+    background-color: rgb(245, 153, 15);
+    width: 100px;
+    height: 50px;
+    left: 20px;  
+    border-style: groove ;
+    border-color: black;
+    position: relative;
+}
+.c2{
+    background-color: rgb(245, 153, 15);
+    width: 130px;
+    height: 80px;
+    left: 20px;  
+    border-style: groove ;
+    border-color: black;
+    position: relative;
+    bottom: 50px;
+    left: 115px;
+}.c22{
+    background-color: rgb(15, 15, 14);
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 30px;  
+    top: 20px;
+}.c23{
+    background-color: rgb(15, 15, 14);
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 80px; 
+    
+}
+.c3{
+    background-color: rgb(245, 153, 15);
+    width: 100px;
+    height: 50px;
+    left: 20px;  
+    border-style:groove ;
+    border-color: black;
+    position: relative;
+    bottom: 135px;
+    left: 249px;
+}
+.c4{
+    background-color: rgb(233, 173, 83);
+    width: 85px;
+    height: 70px;
+    left: 20px;  
+    border-style:groove ;
+    border-color: black;
+    position: relative;
+    bottom: 108px;
+    left: 95px;
+}
+.c5{
+    background-color: rgb(233, 173, 83);
+    width: 85px;
+    height: 70px;
+    left: 20px;  
+    border-style:groove ;
+    border-color: black;
+    position: relative;
+    bottom: 184px;
+    left: 179px;
+}
+.c6{
+    background-color: rgb(15, 15, 14);
+    width: 40px;
+    height: 25px;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    bottom: 250px;
+}
